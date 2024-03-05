@@ -1,6 +1,7 @@
-b = Input()
+v=e
 try:
-    a = eval(input())
+    #a = eval(input())
+    print("d")
 
 except:
     print("not")
