@@ -1,3 +1,4 @@
+
 import statistics
 print(statistics.variance([0,5,14,8]))
 print(statistics.variance([4,5,7,8]))
