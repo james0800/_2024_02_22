@@ -4,5 +4,4 @@ requests
 numpy
 pandas
 matplotlib
-pyautogui
-opencv-python
+openpyxl
